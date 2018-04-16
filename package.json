@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "dev": "parcel index.html"
+  },
   "devDependencies": {
     "parcel-bundler": "^1.7.1"
   }
